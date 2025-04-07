@@ -8,7 +8,6 @@ Currently:
 - 🎓 Studying Computer Science
 - 🛡️ Diving into Blue Team security and defensive systems
 - 🧠 Building tools that make log analysis less painful and more powerful
-- 📜 Writing about cyberethics, trust, and systems thinking
 
 ### 🧰 My Tools & Projects
 - `log-analyzer.sh` – A bash script that simulates real-world log triage under pressure (coming soon)
